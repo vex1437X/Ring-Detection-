@@ -1,1 +1,1 @@
-saige ring detection
+ring detection
